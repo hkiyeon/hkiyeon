@@ -25,5 +25,14 @@ Here are some ideas to get you started:
 
 ### 자격증
 ---
+* 네트워크관리사 2급
+* 리눅스마스터 2급
 * 정보처리기사
 * AWS Certified Cloud Practitioner(AWS Training and Certification )
+
+### 블로그
+---
+<img src="https://img.shields.io/badge/VELOG-#20C997?style=for-the-badge&logo=VELOG&logoColor=white">
+### 스킬
+---
+
