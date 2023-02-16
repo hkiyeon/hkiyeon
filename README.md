@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 시스템 엔지니어로 일하고 있습니다. 현재 클라우드에서 서버 구성 및 모니터링을 하고있습니다.<br/>
 문제를 다양한 방법으로 해결하는 것을 좋아합니다.
 
-### :construction_worker: 경력
----
+// ### :construction_worker: 경력
+// ---
 
 ### :books: 자격증
 ---
