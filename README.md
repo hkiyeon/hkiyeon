@@ -32,7 +32,9 @@ Here are some ideas to get you started:
 
 ### 블로그
 ---
-<img src="https://img.shields.io/badge/VELOG-#20C997?style=for-the-badge&logo=VELOG&logoColor=white">
+<img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=Velog&logoColor=white">
+
+
 ### 스킬
 ---
 
