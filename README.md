@@ -35,6 +35,15 @@ Here are some ideas to get you started:
 [<img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=Velog&logoColor=white">](https://velog.io/@kiyeon)
 
 
-### 스킬
+### Tools
 ---
+<img src="https://img.shields.io/badge/AMAZONAWS-232F3E?style=for-the-badge&logo=aws&logoColor=white">
+<img src="https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
+<img src="https://img.shields.io/badge/JENKINS-D24939?style=for-the-badge&logo=Jenkins&logoColor=white">
+<img src="https://img.shields.io/badge/ANSIBLE-EE0000?style=for-the-badge&logo=Ansible&logoColor=white">
+
+
+
+
+
 
