@@ -23,10 +23,7 @@ Here are some ideas to get you started:
 
 ### :books: 자격증
 ---
-* 네트워크관리사 2급
-* 리눅스마스터 2급
-* 정보처리기사
-* AWS Certified Cloud Practitioner
+
 
 ### 블로그
 ---
